@@ -1,0 +1,2 @@
+C:\Users\nswat\source\repos\Trivia_Game\x64\Debug\Trivia_Game.exe
+C:\Users\nswat\source\repos\Trivia_Game\x64\Debug\Trivia_Game.pdb
