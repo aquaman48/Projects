@@ -4,7 +4,7 @@ I compiled this code via Visual Studios.
 
 For the Trivia game we use a simple menu that gives the user a brief introduction and then options to make a selection. 
 
-##Intro
+#Intro
 
 ![Step 1](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Intro.JPG)
 
