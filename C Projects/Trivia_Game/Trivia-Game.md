@@ -47,8 +47,13 @@ Alot of the code that was used here goes off the basics of the C language. The m
 In this program and in the current form that it is in only really has 2 variables and 4 functions. One in which is global and the other is local for the functions. 
 
 - Global Variable
-  - int giResponse = 0; 
-  - `This is how we are keeping track of the users selection at the main menu.` 
+  - int giResponse = 0;  `This is how we are keeping track of the users selection at the main menu.` 
+
+
+
+
+
+
 
 
 
