@@ -44,12 +44,14 @@ Alot of the code that was used here goes off the basics of the C language. The m
 
 ### Variables and Functions
 
+In this program and in the current form that it is in only really has 2 variables and 4 functions. One in which is global and the other is local for the functions. 
+
 - Global Variable
   - int giResponse = 0; 
   - `This is how we are keeping track of the users selection at the main menu.` 
 
 
-In this program and in the current form that it is in only really has 2 variables. One in which is global and the other is local for the functions. 
+
 In the do while loop on line 20 you can see system("CLS"); ![cls](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/cls.png)
 
 `Note: This is clearing the screen with each selection. Instead of repeating in a line on our screen, we will see it only one time.` 
