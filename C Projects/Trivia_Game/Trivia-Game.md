@@ -42,6 +42,16 @@ Like everything else, all good things must come to an end. At anytime in the pro
 
 Alot of the code that was used here goes off the basics of the C language. The main concept that is used here is `switch:case` statements and the use of a `do-while` loop. 
 
+### Libraries 
+
+There are 3 libraries we must bring in to successfully debug our program. 
+
+1. #include<stdio.h>
+2. #include<time.h>
+3. #include<stdlib.h>
+
+`stdio.h and stdlib.h are your basic general libraries. Since in our program we use the system("CLS") function we must include the time.h library as well.`
+
 ### Variables and Functions
 
 In this program and in the current form that it is in only really has 2 variables and 4 functions. One in which is global and the other is local for the functions.
