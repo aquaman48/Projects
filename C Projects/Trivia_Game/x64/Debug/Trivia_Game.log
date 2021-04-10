@@ -1,4 +1,0 @@
-﻿  Trivia_Game.c
-C:\Users\nswat\source\repos\Trivia_Game\Trivia_Game.c(112,27): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
-C:\Users\nswat\source\repos\Trivia_Game\Trivia_Game.c(114,28): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
-  Trivia_Game.vcxproj -> C:\Users\nswat\source\repos\Trivia_Game\x64\Debug\Trivia_Game.exe
