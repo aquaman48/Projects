@@ -44,10 +44,39 @@ Alot of the code that was used here goes off the basics of the C language. The m
 
 ### Variables and Functions
 
-In this program and in the current form that it is in only really has 2 variables and 4 functions. One in which is global and the other is local for the functions. 
+In this program and in the current form that it is in only really has 2 variables and 4 functions. One in which is global and the other is local for the functions.
+Since we are only using whole numbers will we give the functions and variables int data-types. 
+
+- Functions
+  - int sportsQuestion(void)
+  - int geographyQuestion(void)
+  - int hardQuestion(void)
+  - void pause(int)
+
+- Local Variable
+  - int iAnswer
+
+The functions are designed to hold the information that the user will see for each question. The code snippet below is pulled from the Sports Question. 
+Here you can see this is the basic setup for the functions.
+```
+1. Category - line 63
+2. Question - line 64
+3. Option 1 - line 65
+4. Option 2 - line 66
+5. Option 3 - line 67
+6. Option 4 - line 68
+7. Ask for user input - line 69
+8. Store user input in variable iAnswer - line 70
+```
+
+##### Example:
+        
+   ![Question-Func](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/Question-function.JPG)
+      
+
 
 - Global Variable
-  - int giResponse = 0;  `This is how we are keeping track of the users selection at the main menu.` 
+  - int giResponse   `This is how we are keeping track of the users selection at the main menu.` 
 
 
 
