@@ -38,6 +38,23 @@ Like everything else, all good things must come to an end. At anytime in the pro
 ![Exit](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Exit.jpg)
 
 
+## Code Break-Down
+
+Alot of the code that was used here goes off the basics of the C language. The main concept that is used here is `switch:case` statements and the use of a `do-while` loop. 
+
+### Variables and Functions
+
+In this program and in the current form that it is in only really has 2 variables and 4 functions. One in which is global and the other is local for the functions. 
+
+- Global Variable
+  - int giResponse = 0;  `This is how we are keeping track of the users selection at the main menu.` 
+
+
+
+
+
+
+
 
 
 In the do while loop on line 20 you can see system("CLS"); ![cls](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/cls.png)
