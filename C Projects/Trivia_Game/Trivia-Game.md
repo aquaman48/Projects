@@ -114,11 +114,12 @@ The part of the code that controls how long the screen is displayed after user i
 `Inside the parentheses we must pass a whole number, as we are calling the pause function that was created. void pause(int);
 The (2) is what we are stating for the time. So, after input and pressing enter you will see "correct" or "incorrect" for 2 seconds. 
 After these 2 seconds, you will go back to the main menu of the program.` 
-
+<br/><br/>
 
 ![End-While](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/End-of-doWhile.JPG)
+<br/><br/>
 At the very end of the do-while loop you will see while (giResponse != 4); This is how we get the program to exit. This is telling the program that while the user input is not (!=) 4 then we will keep showing this menu. 
-
+<br/>
 
 - **Switch & Case**
 
