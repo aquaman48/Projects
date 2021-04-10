@@ -4,6 +4,8 @@ Compiler used: **Visual Studios**
 
 `Note: If you are wanting to actually run this file yourself then please advise that you will need to add this file to a solution in order to run it.`
 
+[Source-Code](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia_Game.c), [Code Breakdown](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#code-break-down)
+
 ### Intro/Main Menu 
 
 For the Trivia game we use a simple menu that gives the user a brief introduction and then options to make a selection. 
@@ -91,22 +93,43 @@ Here you can see this is the basic setup for the functions.
 
 ## Control Flow 
 
-#### Do-While Loop & Switch Case Statement
+Since the trivia game we have a menu and is dependent on user selection, to run our program we implemented the use of a `do-while` loop and a `switch:case` statement. 
+We want the program to **display**(do) everything for our menu **until**(while) user inputs 4 to quit. 
 
+### Do-While Loop & Switch Case Statement
 
+- **Do-While**
 
-In the do while loop on line 20 you can see this is where we start making use of our time.h lib we discussed above with the use of system("CLS"); 
+In the do while loop on line 20 you can see this is where we start making use of our `time.h` lib we discussed above with the use of system("CLS"); 
 
 ![cls](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/cls.png)
 
-`Note: This is clearing the screen with each selection. Instead of repeating in a line on our screen, we will see it only one time.` 
+`Note: This is clearing the screen with each selection. Instead of repeating in a line on our screen, we will see only one instance of the program at a time.` 
 
-Down at the end of the do while loop on line 51 you will see pause(2); 
+
+The part of the code that controls how long the screen is displayed after user input can be found down at the end of the do while loop on line 51 you will see pause(2); 
 
 ![pause](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/pause.png)
 
 `Inside the parentheses we must pass a whole number, as we are calling the pause function that was created. void pause(int);
 The (2) is what we are stating for the time. So, after input and pressing enter you will see "correct" or "incorrect" for 2 seconds. 
 After these 2 seconds, you will go back to the main menu of the program.` 
+
+
+![End-While](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/End-of-doWhile.JPG)
+At the very end of the do-while loop you will see while (giResponse != 4); This is how we get the program to exit. This is telling the program that while the user input is not (!=) 4 then we will keep showing this menu. 
+
+
+- **Switch & Case**
+
+Once the user has seen the main menu and has made a selection, the switch statement takes over. 
+
+If you look at the image below you can see that for each "case" is the selection the user can make. So, if the user input for selection 1 was 4 then they would see _correct_, otherwise any other input would lead them to see _incorrect_. 
+
+![Switch-Case](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/Switch-Statement.JPG)
+
+
+
+
 
 
