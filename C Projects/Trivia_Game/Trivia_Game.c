@@ -93,7 +93,7 @@ int hardQuestion(void)
 	int iAnswer = 0;
 	system("CLS");
 	printf("\tHard Question\n");
-	printf("\nIn California, you can’t legally buy a mousetrap without having what?");
+	printf("\nIn California, you can not legally buy a mousetrap without having what?");
 	printf("\n\n1\tDrivers License\n");
 	printf("2\tFood Stamps\n");
 	printf("3\tHunting License\n");
@@ -101,7 +101,7 @@ int hardQuestion(void)
 	printf("\nEnter your selection: ");
 	scanf_s("%d", &iAnswer);
 	return iAnswer;
-}//end of hard ass question function
+}//end of hard question function
 
 
 //void function definition
