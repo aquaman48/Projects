@@ -6,7 +6,7 @@ Hello and welcome! Are you wanting to try out a fun [trivia game?](https://githu
 
 The best option to run each of the files would be to fork the whole repository and open the files with respected software to compile. Screenshots for each project will be included as well. 
 
-[# C Files:](https://github.com/aquaman48/Projects/tree/main/C%20Projects)
+# [C Files:](https://github.com/aquaman48/Projects/tree/main/C%20Projects)
 Compiler used: **Visual Studios**
 
 `Note: the file I have included is just the code.` 
