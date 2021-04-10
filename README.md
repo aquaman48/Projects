@@ -1,10 +1,10 @@
 # Projects
-Hello and welcome! This repository is my collection of projects I have been working on. I do like video games, so naturally I tend to lean towards game projects. Like this simple and fun [trivia game](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#trivia-game-). 
+Hello and welcome! This repository is my collection of projects I have been working on. I do like video games, so naturally I tend to lean towards game projects for practice. Like this simple and fun [trivia game](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#trivia-game-).
 
 
 # How To:
 
-The best option to run each of these files would be to fork the whole repository and open the files with respected software to compile. For Visual Studios, I will include screenshots of steps to take for creating a new solution and adding/removing the files for our solution files to run and compile. 
+The best option to run each of these files would be to clone the whole repository and open the files with respected software to compile. For Visual Studios, I will include screenshots of steps to take for creating a new solution and adding/removing the files for our solution files to run and compile. 
 
 `Screenshots for each project will be included as well.`
 
