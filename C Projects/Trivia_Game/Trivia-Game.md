@@ -89,18 +89,24 @@ Here you can see this is the basic setup for the functions.
   - int giResponse   `This is how we are keeping track of the users selection at the main menu.` 
 
 
+## Control Flow 
+
+#### Do-While Loop & Switch Case Statement
 
 
 
+In the do while loop on line 20 you can see this is where we start making use of our time.h lib we discussed above with the use of system("CLS"); 
 
-
-
-
-In the do while loop on line 20 you can see system("CLS"); ![cls](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/cls.png)
+![cls](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/cls.png)
 
 `Note: This is clearing the screen with each selection. Instead of repeating in a line on our screen, we will see it only one time.` 
 
-Down at the end of the do while loop on line 51 you will see pause(2); ![pause](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/pause.png)
+Down at the end of the do while loop on line 51 you will see pause(2); 
 
-`The (2) is what we are stating for the time. So, after input and pressing enter you will see "correct" or "incorrect" for 2 seconds. After these 2 seconds, 
-you will go back to the main menu of the program.` 
+![pause](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Code-Snippets/pause.png)
+
+`Inside the parentheses we must pass a whole number, as we are calling the pause function that was created. void pause(int);
+The (2) is what we are stating for the time. So, after input and pressing enter you will see "correct" or "incorrect" for 2 seconds. 
+After these 2 seconds, you will go back to the main menu of the program.` 
+
+
