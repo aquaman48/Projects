@@ -10,7 +10,7 @@ The best option to run each of these files would be to clone the whole repositor
 
 # [C Files:](https://github.com/aquaman48/Projects/tree/main/C%20Projects)
 
-Compiler used: **Visual Studios**
+Compiler used: **Visual Studios** <br />
 OS: Windows 10
 
 `Note: the files here that I have included is just the code and not a whole solution file.` 
