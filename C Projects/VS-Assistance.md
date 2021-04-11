@@ -9,9 +9,12 @@ If you do not have it installed then please install it and all the dependencies 
 <br />
 Once you have everything installed and your workstation has been restarted you should be good to go. Once Visual Studios is open you will see a screen like the one below. On the right side of the screen we want to create a new project. 
 <br />
+
 ![Step-1](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/VS/VS-New-Proj-1.png)
+
 <br />
 <br/>
+
 #### **Step 2**
 
 After clicking create new project you should see a screen similiar to the one below. We want to use the Console App for C++. If you do not see that option try searching for it in the "Search for Templates" search bar. 
