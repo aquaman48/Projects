@@ -16,7 +16,7 @@ Compiler used: **Visual Studios**
 
 If you would like to run it for yourself then you will need to start a new project in Visual Studios (or any tool that can compile C) and add the file to the solution. For my machine, I was never able to compile successfully on solution platform x86. I had to change it to x64 to get it to successfully compile once the file was added to a new solution. 
 
-Check here [VS-Assitance.md]() for a guide on creating a new solution and working with the C files in this repository. 
+Check here [VS-Assitance.md](https://github.com/aquaman48/Projects/blob/main/C%20Projects/VS-Assistance.md#microsoft-visual-studios-assistance) for a guide on creating a new solution and working with the C files in this repository. 
 
 
 ### Overview
