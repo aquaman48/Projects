@@ -91,7 +91,7 @@ Inside the Solution Explorer box, right click on Source Files and then select ad
 
 <br/> <br/>
 
-After selecting new item we are going to select the default C++ file. Notice it is a .cpp file. In order for us to compile the code for C we want to simply change the **source.cpp** over to something like **Trivia_Game.c**. We will use the .c file extension, which the C++ compiler in Visual Studios will work just fine with C files as well. 
+After selecting new item we are going to select the default C++ file. Notice it is a .cpp file. In order for us to compile the code for C we want to simply change the **source.cpp** over to something like **Trivia_Game.c**. We will use the **_.c_** file extension, which the C++ compiler in Visual Studios will work just fine with C files as well. 
 
 <br/> <br/>
 
@@ -103,9 +103,47 @@ After selecting new item we are going to select the default C++ file. Notice it 
 
 <br/> <br/>
 
+Now we have our new file added to our project and we should see the new file over in our solutions explorer underneath the default .cpp file that was created when we made the project. However, we can only have 1 file active at a time to be able to successfully debug our code. In my case I **right** clicked on C-Projects.cpp under the source files. Once you right click we want to remove. For now, I am just going to remove and then delete the file. If we just remove the file we would be able to bring the same file we removed back later.
+
+<br /><br />
+
+![Step-7](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/VS/Step-7.png)
+
+
+
+`Note: From Step 5 to now is how we would also add and remove other files to code and debug as well.`
 
 <br/> <br/>
 
 #### **Step 8**
 
+<br/><br/>
+
+Now we should only have our one file here. This is the spot where we can start editing our code and getting our program ready. Now, you can copy/paste the [source code](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia_Game.c) or type it out yourself making whatever changes you want. When you have all the code or at any point you want to run the debugger make sure the solution platform is changed from x86 --> x64. 
+
 <br/> <br/>
+
+![Step-8](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/VS/Step-8.PNG)
+
+<br/> <br/>
+
+#### **Step 9**
+
+<br/> <br/>
+
+Now, you have all your code and it is looking good. That means you want to see the fruits of your labor and check out the new program you coded. Well, after you change to x64 as mentioned in the previous step. You can run the program with `f5` or go to debug>start-debugging.
+
+<br/><br/>
+
+![Step-9](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/VS/Step-9.PNG)
+
+<br/><br/>
+
+# Congratulations
+
+You made it! I hope it wasn't to hard to follow along. 
+Once you run the debugger the real fun begins as it will either work or not work. Sometimes it might not work as intended, others it will work flawlessly. Just remember to fix the issues as they come up and take your time to soak in all the information. 
+
+Best of luck!
+
+Aquaman48 
