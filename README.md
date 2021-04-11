@@ -1,5 +1,5 @@
 # Projects
-Hello and welcome! This repository is my collection of projects I have been working on. I do like video games, so naturally I tend to lean towards game projects for practice. Like this simple and fun [trivia game](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#trivia-game-).
+Hello and welcome! This repository is my collection of projects I have been working on. I do like video games, so naturally I tend to lean towards game projects for practice. Like this simple and fun [trivia game](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#trivia-game-). 
 
 
 # How To:
@@ -11,6 +11,7 @@ The best option to run each of these files would be to clone the whole repositor
 # [C Files:](https://github.com/aquaman48/Projects/tree/main/C%20Projects)
 
 Compiler used: **Visual Studios**
+OS: Windows 10
 
 `Note: the files here that I have included is just the code and not a whole solution file.` 
 
@@ -19,9 +20,7 @@ If you would like to run it for yourself then you will need to start a new proje
 Check here [VS-Assitance.md](https://github.com/aquaman48/Projects/blob/main/C%20Projects/VS-Assistance.md#microsoft-visual-studios-assistance) for a guide on creating a new solution and working with the C files in this repository. 
 
 
-### Overview
+### 
 
-- Trivia Game
-- Tic-Tac-Toe Game
-- Fortune-Cookie 
-- Simple Pin Validator Program
+- [Trivia Game](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#trivia-game-)  
+- [Simple Pin Validator Program](https://github.com/aquaman48/Projects/new/main/C%20Projects/Simple%20Pin%20Validator#simple-pin-validation)
