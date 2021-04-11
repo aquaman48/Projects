@@ -4,7 +4,7 @@ Compiler used: **Visual Studios**
 
 `Note: If you are wanting to actually run this file yourself then please advise that you will need to add this file to a solution in order to run it.`
 
-[Source-Code](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia_Game.c), [Code Breakdown](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#code-break-down)
+[Source-Code](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia_Game.c), [Code Breakdown](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#code-break-down), [Getting Visual Studios Set Up](https://github.com/aquaman48/Projects/blob/main/C%20Projects/VS-Assistance.md#microsoft-visual-studios-assistance)
 
 ### Intro/Main Menu 
 
