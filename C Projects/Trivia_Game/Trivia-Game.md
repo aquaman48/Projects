@@ -1,6 +1,7 @@
 # Trivia Game 😃
 
 Compiler used: **Visual Studios**
+OS: **Microsoft Windows 10**
 
 `Note: If you are wanting to actually run this file yourself then please advise that you will need to add this file to a solution in order to run it.`
 
