@@ -12,34 +12,34 @@ OS: **Microsoft Windows 10**
 
 For the Trivia game we use a simple menu that gives the user a brief introduction and then options to make a selection. 
 
-![Step 1](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Intro.JPG)
+![Step 1](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Trivia_Game_Screenshots/Intro.JPG)
 
 ### Sports Question
 
-![Sports-Selection](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Sports-Question.jpg)
+![Sports-Selection](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Trivia_Game_Screenshots/Sports-Question.jpg)
 
 After choosing an answer the program will let us know if we were correct or not.
 
-![Sports-Answers](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Sports-Answer-Example.jpg)
+![Sports-Answers](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Trivia_Game_Screenshots/Sports-Answer-Example.jpg)
 
 
 ### Geography Question
 
 Formatted just like the sports question. Below you can see the question, with an example of given answer. 
 
-![Geography-Selection](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Geography-Question-Answer-Example.jpg)
+![Geography-Selection](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Trivia_Game_Screenshots/Geography-Question-Answer-Example.jpg)
 
 ### Hard Question
 
 Again, to keep things simple used same formatting as in other questions. Below you can see the question, with an example of given answer.  
 
-![Hard-Selection](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Hard-Question.jpg)
+![Hard-Selection](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Trivia_Game_Screenshots/Hard-Question.jpg)
 
 ### Exiting
 
 Like everything else, all good things must come to an end. At anytime in the process at the main menu the user can input 4 to exit out of the program.
 
-![Exit](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Exit.jpg)
+![Exit](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Trivia_Game_Screenshots/Exit.jpg)
 
 
 ## Code Break-Down
