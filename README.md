@@ -23,4 +23,4 @@ Check here [VS-Assitance.md](https://github.com/aquaman48/Projects/blob/main/C%2
 ### 
 
 - [Trivia Game](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#trivia-game-)  
-- [Simple Pin Validator Program](https://github.com/aquaman48/Projects/new/main/C%20Projects/Simple%20Pin%20Validator#simple-pin-validation)
+- [Simple Pin Validator Program](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Simple%20Pin%20Validator/Simple-Pin.md)
