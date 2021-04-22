@@ -30,6 +30,9 @@ That made it made it easier to stick with the requirements as each option was ma
 
 ## Results
 
+When the program is compiled in Visual Studios the results we get can be seen below. As you can see we met each requirement that was laid out for us. 
+
+Now, for some this is the end point, we got it running and thats that. Time to go to the next one. However, that might be the case for me as well for now. There are a few ideas I can think of to make it a little better. Like in the trivia game with the the use of clear screen. We could keep the screen less cluttered and organized better. That is just one idea and there are plenty of more. Feel free to expand on this and do share your thoughts!
 <br />
 
 ![When-Ran](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Screenshots/Simple_Pin_Validator_Screenshots/When_Ran_Simple_Pin.JPG)
