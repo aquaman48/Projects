@@ -13,6 +13,17 @@ The best option to run each of these files would be to clone the whole repositor
 
 `Screenshots for each project will be included as well.`
 
+# Android Applications
+
+Compiler used: **Android Studios** v.4.1.3 <br />
+OS: **Microsoft Windows 10**
+
+Working with Android Studios and using Java was a lot fun. With it being my first time using Java there is a lot to learn. Compared to other languages I felt that I grasped and picked up the concepts way faster than others. 
+
+### Projects
+
+#### [Android Sandbox](https://github.com/aquaman48/Android-Apps#android-development-using-java)
+
 # [C Files:](https://github.com/aquaman48/Projects/tree/main/C%20Projects)
 
 <br />
