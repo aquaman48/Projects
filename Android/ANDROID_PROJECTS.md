@@ -3,7 +3,7 @@
 Compiler used: **Android Studios** v.4.1.3 <br />
 OS: **Microsoft Windows 10**
 
-## Welcome 
+# Welcome 
 
 Here are some Android projects that I worked on. Simple and powerful applications that snapshot some of the core components of making good use of Java in our Android Applications.
 Additional Android Sandbox files can be found [here](https://github.com/aquaman48/Android-Apps)
@@ -84,4 +84,6 @@ This is how the steps are stored and then when app is opened up how the new step
  ## Results
  
  ![main](https://github.com/aquaman48/Projects/blob/main/Android/Screenshots/Simple_Pedometer_Main.png) ![step](https://github.com/aquaman48/Projects/blob/main/Android/Screenshots/Simple_Pedometer_Step.png)
+ 
+ # Ringtone Sampler Application
  
