@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ringtone Sampler</string>
+    <string name="txtTitle">Ringtone Sampler</string>
+    <string name="radHappy">Ringtone - Be Happy.mp3</string>
+    <string name="radCrazy">Ringtone - Beautiful Crazy.mp3</string>
+    <string name="radBoom">Ringtone - Suga Boom.mp3</string>
+    <string name="btnPlay">Play Ringtone</string>
+</resources>
