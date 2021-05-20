@@ -1,4 +1,4 @@
-# Projects
+# Software Portfolio
 
 <br />
 
@@ -21,6 +21,10 @@ OS: **Microsoft Windows 10**
 Working with Android Studios and using Java was a lot fun. With it being my first time using Java there is a lot to learn. Compared to other languages I felt that I grasped and picked up the concepts way faster than others. 
 
 ### Projects
+
+- [Simple Pedometer](https://github.com/aquaman48/Projects/blob/main/Android/ANDROID_PROJECTS.md#simple-pedometer)
+- [Ringtone Sampler](https://github.com/aquaman48/Projects/blob/main/Android/ANDROID_PROJECTS.md#ringtone-sampler-application)
+
 
 #### [Android Sandbox](https://github.com/aquaman48/Android-Apps#android-development-using-java)
 
