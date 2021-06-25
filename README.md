@@ -28,7 +28,7 @@ Working with Android Studios and using Java was a lot fun. With it being my firs
 
 #### [Android Sandbox](https://github.com/aquaman48/Android-Apps#android-development-using-java)
 
-# [C Files:](https://github.com/aquaman48/Projects/tree/main/C%20Projects)
+# C Files
 
 <br />
 
