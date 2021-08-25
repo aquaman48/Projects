@@ -4,6 +4,8 @@
 
 Hello and welcome! This repository is my collection of projects I have been working on. I do like video games, so naturally I tend to lean towards game projects for practice. Like this simple and fun [trivia game](https://github.com/aquaman48/Projects/blob/main/C%20Projects/Trivia_Game/Trivia-Game.md#trivia-game-). I will be updating this accordingly as I add new files and learn more concepts. 
 
+Still working on stuff. 
+
 
 # How To:
 
